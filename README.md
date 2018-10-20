@@ -11,4 +11,5 @@ A bucket list for Los Angeles. This is a list of all the things I'd like to do i
 On 10-20-2018  
 
 My Coach: Kyle Boss, Jackie Beltran
+
 My Pair: Lisa McAulay
