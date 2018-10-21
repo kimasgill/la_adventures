@@ -13,3 +13,10 @@ On 10-20-2018
 My Coach: Kyle Boss, Jackie Beltran
 
 My Pair: Lisa McAulay
+
+### Deployment Instructions
+
+```bash
+git push heroku master
+```
+http://damp-bastion-23124.herokuapp.com/
