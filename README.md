@@ -14,6 +14,9 @@ My Coach: Kyle Boss, Jackie Beltran
 
 My Pair: Lisa McAulay
 
+### Overview
+This is a [Ruby on Rails](https://rubyonrails.org/) project deployed on [Heroku](https://www.heroku.com/).
+
 ### Deployment Instructions
 
 ```bash
