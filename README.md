@@ -1,6 +1,6 @@
 ## Rails Girls 2018
 
-#### Ruby version 2.3.0
+#### Ruby version 2.4.2
 #### Rails version 5.2.1
 
 ### L.A. Adventure App
